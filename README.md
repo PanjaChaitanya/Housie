@@ -1,4 +1,4 @@
 # Housie
 Housie coins picker
 Click here to run
-panjachaitanya.github.io/Housie/
+https://panjachaitanya.github.io/Housie/
